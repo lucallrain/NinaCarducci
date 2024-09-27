@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Nina Carducci Photography",
+  "description": "Photographe professionnelle spécialisée en portraits, mariages et événements en Île-de-France.",
+  "image": "https://ninacarducci.github.io/assets/images/nina.webp",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "68 avenue Alsace-Lorraine",
+    "addressLocality": "Bordeaux",
+    "postalCode": "33200",
+    "addressCountry": "FR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.8378",
+    "longitude": "-0.5792"
+  },
+  "telephone": "+33-5-56-67-78-89",
+  "email": "contact@ninacarducci.com",
+  "openingHours": "Mo-Fr 10:00-19:00",
+  "priceRange": "€€€",
+  "url": "https://ninacarducci.github.io",
+  "sameAs": [
+    "https://www.instagram.com/ninacarducci.photo/?hl=fr"
+  ]
+}
